@@ -4,6 +4,10 @@ html{
     scroll-behavior: smooth;
 }
 
+.main-heading{
+    text-align: 60px;
+}
+
 *{
     margin: 0;
     padding: 0;
